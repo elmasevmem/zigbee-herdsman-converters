@@ -62,6 +62,7 @@ import {definitions as diyruz} from "./diyruz";
 import {definitions as dlink} from "./dlink";
 import {definitions as dnake} from "./dnake";
 import {definitions as dowsing_reynolds} from "./dowsing_reynolds";
+import {definitions as dqsmart} from "./dqsmart";
 import {definitions as dresden_elektronik} from "./dresden_elektronik";
 import {definitions as easyaccess} from "./easyaccess";
 import {definitions as easyiot} from "./easyiot";
@@ -76,6 +77,7 @@ import {definitions as efekta} from "./efekta";
 import {definitions as eglo} from "./eglo";
 import {definitions as elko} from "./elko";
 import {definitions as enbrighten} from "./enbrighten";
+import {definitions as enkin} from "./enkin";
 import {definitions as enocean} from "./enocean";
 import {definitions as envilar} from "./envilar";
 import {definitions as essentialb} from "./essentialb";
@@ -386,6 +388,7 @@ export default [
     ...dnake,
     ...dowsing_reynolds,
     ...dresden_elektronik,
+    ...dqsmart,
     ...easyaccess,
     ...easyiot,
     ...eatonhalo_led,
@@ -400,6 +403,7 @@ export default [
     ...elko,
     ...enbrighten,
     ...enocean,
+    ...enkin,
     ...envilar,
     ...essentialb,
     ...essentials,
